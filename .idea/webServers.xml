@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b8b9894d-b35e-4aa1-bfde-1fb64bd7f107" name="febatih843" url="http://77.222.40.223">
+        <fileTransfer host="77.222.40.223" port="21">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="452bb469-2e17-4bd4-820d-ff53cd39f4ca" name="77.222.40.223" url="http://77.222.40.223">
+        <fileTransfer host="77.222.40.223" port="21">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

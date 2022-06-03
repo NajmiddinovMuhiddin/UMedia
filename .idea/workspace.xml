@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b72534a-4240-424b-a93d-53bbf03a2f4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/umedia-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/Cunia-bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/Cunia-bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/Montserrat-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/Montserrat-Black.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/Montserrat-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/Montserrat-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/Montserrat-ExtraBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/Montserrat-ExtraBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/Montserrat-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/Montserrat-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/Montserrat-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/Montserrat-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/Montserrat-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/Montserrat-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/Montserrat-SemiBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/Montserrat-SemiBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/icomoon.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/about-us/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/about-us/01.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/about-us/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/about-us/02.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/iconmoon/arrow-chevron.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/iconmoon/arrow-small.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/iconmoon/arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/iconmoon/call.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/iconmoon/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/iconmoon/globus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/iconmoon/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/iconmoon/kubiks.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/iconmoon/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/icons/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/icons/close.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/icons/underscore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/icons/underscore.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/logo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/news-blade/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/news-blade/01.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/news-blade/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/news-blade/02.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/news/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/news/01.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/news/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/news/02.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/news/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/news/03.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/news/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/news/04.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/news/05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/news/05.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/news/06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/news/06.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/pattern-ellipce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/pattern-ellipce.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/01.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/02.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/03.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/04.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/page/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/page/01.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/page/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/page/02.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/page/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/portfolio/page/03.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/result/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/result/01.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/result/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/result/02.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/result/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/result/03.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/result/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/result/04.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/team/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/team/01.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/team/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/team/02.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/team/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/team/03.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/team/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/team/04.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/u-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/img/u-logo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/css/aos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/css/emojibuttonlistjs.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/css/fancybox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/css/flickity.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/css/fullpage.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/css/fullpage.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/css/jquery.formstyler.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/css/jquery.formstyler.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/css/jquery.pagepiling.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/css/jquery.pagepiling.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/css/nouislider.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/css/slick-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/css/swiper-bundle.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/css/vanillaCalendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/ScrollMagic.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/aos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/circles.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/debug.addIndicators.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/dynamic-adaptive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/easings.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/easings.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/emojibuttonlistjs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/fancybox.umd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/flickity.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/fullpage.extensions.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/fullpage.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/inputmask.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/jquery.formstyler.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/jquery.pagepiling.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/jquery.pagepiling.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/just-validate.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/nouislider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/rellax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/scrolloverflow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/sticky-kit.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/swiper-bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/swiper-bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/vanillaCalendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/vendors/js/wNumb.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Layout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/companents/AboutUsInfo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/companents/Calculator.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/companents/MyMap.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/companents/NewsItems.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/companents/ServicesItems.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/calculator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Feedback.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/News.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/NewsItems.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Notfound.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Portfolio.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Service.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Services.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/request/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scripts-vanilla.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/action/NewsAction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/action/OrdersAction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/action/ServicesAction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducer/NewsReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducer/OrdersReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducer/ServiceReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/useScript.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="29TJcvaezfn7n7LXpaHrgpam0Im" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="js.last.introduce.type" value="LET" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Рабочий стол/rkeeper" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\react\umedia-app\public\assets" />
+      <recent name="D:\Projects\react\umedia-app\src\assets\js" />
+      <recent name="D:\Projects\react\umedia-app\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\react\umedia-app\src\pages" />
+      <recent name="D:\Projects\react\umedia-app\src" />
+      <recent name="D:\Projects\react\umedia-app\public" />
+      <recent name="D:\Projects\react\umedia-app\public\assets\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b72534a-4240-424b-a93d-53bbf03a2f4e" name="Default Changelist" comment="" />
+      <created>1653131225221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653131225221</updated>
+      <workItem from="1653131227939" duration="8879000" />
+      <workItem from="1653300303930" duration="13990000" />
+      <workItem from="1653388592478" duration="120000" />
+      <workItem from="1653388850487" duration="19626000" />
+      <workItem from="1653427241533" duration="32992000" />
+      <workItem from="1653671309603" duration="605000" />
+      <workItem from="1653685754048" duration="2617000" />
+      <workItem from="1653902558255" duration="9869000" />
+      <workItem from="1653935696999" duration="33222000" />
+      <workItem from="1654087786631" duration="50486000" />
+      <workItem from="1654257030599" duration="17778000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
